@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="YakWEOyusurmyG4ARRcW-0" value="&lt;div&gt;基于FPGA的实时超分辨率可视化加速架构设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="210" width="300" height="30" as="geometry" />
+          <mxGeometry x="240" y="200" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YakWEOyusurmyG4ARRcW-1" value="&lt;div&gt;&lt;b&gt;问题3&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;SR模型如何在FPGA上高效&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;实现，并与存储系统协同&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="260" width="140" height="60" as="geometry" />
