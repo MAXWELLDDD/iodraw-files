@@ -34,7 +34,7 @@
         <mxCell id="YakWEOyusurmyG4ARRcW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YakWEOyusurmyG4ARRcW-0" target="YakWEOyusurmyG4ARRcW-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YakWEOyusurmyG4ARRcW-14" value="&lt;b&gt;研究内容1&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YakWEOyusurmyG4ARRcW-14" value="&lt;b&gt;研究内容3&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="350" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YakWEOyusurmyG4ARRcW-16" value="设计低功耗、低延迟可视化数据插值加速器" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YakWEOyusurmyG4ARRcW-14">
@@ -43,7 +43,7 @@
         <mxCell id="YakWEOyusurmyG4ARRcW-18" value="&lt;b&gt;研究内容2&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="350" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YakWEOyusurmyG4ARRcW-19" value="设计低功耗、低延迟可视化数据插值加速器" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YakWEOyusurmyG4ARRcW-18">
+        <mxCell id="YakWEOyusurmyG4ARRcW-19" value="面向硬件部署的SR模型轻量化与优化" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YakWEOyusurmyG4ARRcW-18">
           <mxGeometry y="30" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YakWEOyusurmyG4ARRcW-20" value="&lt;b&gt;研究内容1&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
