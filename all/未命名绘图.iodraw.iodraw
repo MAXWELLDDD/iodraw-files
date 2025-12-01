@@ -13,11 +13,20 @@
         <mxCell id="YakWEOyusurmyG4ARRcW-0" value="&lt;div&gt;基于FPGA的实时超分辨率可视化加速架构设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="200" width="300" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YakWEOyusurmyG4ARRcW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YakWEOyusurmyG4ARRcW-1" target="YakWEOyusurmyG4ARRcW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YakWEOyusurmyG4ARRcW-1" value="&lt;div&gt;&lt;b&gt;问题3&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;SR模型如何在FPGA上高效&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;实现，并与存储系统协同&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="260" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YakWEOyusurmyG4ARRcW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YakWEOyusurmyG4ARRcW-2" target="YakWEOyusurmyG4ARRcW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YakWEOyusurmyG4ARRcW-2" value="&lt;div&gt;&lt;b&gt;问题2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;插值算法输出的高分辨率数据呈现一定程度的平滑或模糊&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YakWEOyusurmyG4ARRcW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YakWEOyusurmyG4ARRcW-3" target="YakWEOyusurmyG4ARRcW-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YakWEOyusurmyG4ARRcW-3" value="&lt;div&gt;&lt;b&gt;问题1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;计算后存储的数据模式缺乏海洋数据所需的时效性&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="260" width="140" height="60" as="geometry" />
