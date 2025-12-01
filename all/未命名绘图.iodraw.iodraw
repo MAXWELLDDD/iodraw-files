@@ -49,8 +49,11 @@
         <mxCell id="YakWEOyusurmyG4ARRcW-20" value="&lt;b&gt;研究内容1&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="350" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YakWEOyusurmyG4ARRcW-21" value="设计低功耗、低延迟可视化数据插值加速器" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YakWEOyusurmyG4ARRcW-20">
+        <mxCell id="YakWEOyusurmyG4ARRcW-21" value="设计低功耗、低延迟可视化数据插值加速器" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YakWEOyusurmyG4ARRcW-20">
           <mxGeometry y="30" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YakWEOyusurmyG4ARRcW-25" value="&lt;div&gt;&lt;b&gt;问题1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;计算后存储的数据模式缺乏海洋数据所需的时效性&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="270" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
