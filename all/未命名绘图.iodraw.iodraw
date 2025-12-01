@@ -52,11 +52,11 @@
         <mxCell id="YakWEOyusurmyG4ARRcW-21" value="设计低功耗、低延迟可视化数据插值加速器" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YakWEOyusurmyG4ARRcW-20">
           <mxGeometry y="30" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YakWEOyusurmyG4ARRcW-25" value="&lt;div&gt;&lt;b&gt;创新点1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;基于双线性插值设计多级缓存和并行计算单元，以降低延迟&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;和功耗&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YakWEOyusurmyG4ARRcW-25" value="&lt;div&gt;&lt;b&gt;创新点1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;基于双线性插值设计多级缓存和并行计算单元，以降低延迟&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;和功耗&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="440" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YakWEOyusurmyG4ARRcW-26" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;创新点2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;拟基于现有SR网络，针对海洋数据进行适应性微调与轻量化硬件部署&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="450" width="140" height="60" as="geometry" />
+          <mxGeometry x="320" y="440" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YakWEOyusurmyG4ARRcW-27" value="&lt;div&gt;&lt;b&gt;创新点3&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;拟设计以专用超分辨率加速模块和高效的片上存储体系构成的可视化加速架构&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="450" width="140" height="60" as="geometry" />
